@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/react": "^16.9.43",
+    "@types/react-dom": "^16.9.8",
+    "echarts": "^4.8.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "vue": "^2.6.11",
+    "vue-hot-reload-api": "^2.3.4"
+  },
+  "devDependencies": {
+    "@types/echarts": "^4.6.3",
+    "@types/vue": "^2.0.0",
+    "@vue/component-compiler-utils": "^3.1.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
